@@ -1,11 +1,14 @@
 _repo: Markiisitar-Kertomus_53658
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La marquise. Finnish
 contributor:
   translator:
     agent_name: Tuura, Timo
     gutenberg_agent_id: '46998'
     url: http://www.gutenberg.org/2009/agents/46998
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sand, George
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53658#Markiisitar-Kertomus
 gutenberg_issued: '2016-12-03'
 gutenberg_type: Text
 identifiers:
